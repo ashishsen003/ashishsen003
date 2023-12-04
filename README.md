@@ -1,4 +1,5 @@
-# 💫 About Me: Aspiring Full Stack Developer with Expertise in CSS, HTML, JS, and React. Proficient in data structures and basic algorithms. Skilled in effective communication and collaborative teamwork, with strong leadership capabilities.
+# 💫 About Me: 
+Aspiring Full Stack Developer with Expertise in CSS, HTML, JS, and React. Proficient in data structures and basic algorithms. Skilled in effective communication and collaborative teamwork, with strong leadership capabilities.
 🌍  I'm based in New Delhi<br>🌱 I’m currently learning React and Redux<br>✉️  You can contact me at ashishsen997@gmail.com<br>
 
 
