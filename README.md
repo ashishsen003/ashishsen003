@@ -1,9 +1,12 @@
 # 💫 About Me: 
 ### I am a Full-Stack Web Developer with a specialisation in MERN Stack, JavaScript, HTML and CSS. I'm enthusiastic about leveraging my knowledge to build impactful products and services that cater to people's needs. My goal is to contribute to a company that crafts inventive applications focused on users. I look forward to consistently pushing my boundaries and advancing alongside the company's growth.<br>
 
-- I'm based in New Delhi, India🌍<br> 
+* I'm based in New Delhi, India🌍<br>
+ 
 - I’m currently learning Node, Express and Mongo🧑‍💻<br>
+
 - You can contact me at ashishsen997@gmail.com ✉️<br>
+
 - Portfolio https://ashishsen003.github.io/
 
 
