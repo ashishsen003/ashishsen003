@@ -6,13 +6,13 @@
 
 -📫 Reach me at: ashishsen997@gmail.com
 
--👨‍💻 All of my projects are available at [portfolio](https://ashishsen003.github.io/).
+-👨‍💻 All of my projects are available at [portfolio](https://ashishsen003.github.io/)
 
 -🌍 I'm based in New Delhi, India
 
 ✉️ You can contact me at ashishsen997@gmail.com
 
-- 💬 Ask me about HTML, CSS, JavaScript, React.
+-💬 Ask me about HTML, CSS, JavaScript, React.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-kumar-b624b4248/)  [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ashishsen003) 
