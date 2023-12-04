@@ -4,7 +4,7 @@
 - I'm based in New Delhi🌍<br> 
 - I’m currently learning Node, Express and Mongo🧑‍💻<br>
 - You can contact me at ashishsen997@gmail.com ✉️<br>
-- Portfolio ![](https://ashishsen003.github.io/)
+- Portfolio https://ashishsen003.github.io/
 
 
 ## 🌐 Socials:
