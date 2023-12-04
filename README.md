@@ -1,14 +1,24 @@
 # 💫 About Me: 
 ### I am a Full-Stack Web Developer with a specialisation in MERN Stack, JavaScript, HTML and CSS. I'm enthusiastic about leveraging my knowledge to build impactful products and services that cater to people's needs. My goal is to contribute to a company that crafts inventive applications focused on users. I look forward to consistently pushing my boundaries and advancing alongside the company's growth.<br>
 
-* I'm based in New Delhi, India🌍<br>
+🔭 I’m currently working on Medical Solutions.
+
+🌱 I’m currently learning Full Stack Web Development.
+
+📫 Reach me at: ashishsen997@gmail.com
+
+👨‍💻 All of my projects are available at [portfolio](https://ashishsen003.github.io/).
+
+
+- I'm based in New Delhi, India🌍<br>
  
 - I’m currently learning Node, Express and Mongo🧑‍💻<br>
 
 - You can contact me at ashishsen997@gmail.com ✉️<br>
 
-- Portfolio https://ashishsen003.github.io/
+- Portfolio 
 
+- 💬 Ask me about HTML, CSS, JavaScript, React.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-kumar-b624b4248/)  [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ashishsen003) 
