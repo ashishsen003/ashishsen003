@@ -1,5 +1,5 @@
 # 💫 About Me: 
-### Aspiring Full Stack Developer with Expertise in CSS, HTML, JS, and React. Proficient in data structures and basic algorithms with an ambition to continue learning.<br>
+### I am a Full-Stack Web Developer with a specialisation in MERN Stack, JavaScript, HTML and CSS. I'm enthusiastic about leveraging my knowledge to build impactful products and services that cater to people's needs. My goal is to contribute to a company that crafts inventive applications focused on users. I look forward to consistently pushing my boundaries and advancing alongside the company's growth.<br>
 
 🌍 I'm based in New Delhi🌱<br> 
 I’m currently learning React and Redux🧑‍💻<br>
