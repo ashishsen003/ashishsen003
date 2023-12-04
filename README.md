@@ -1,5 +1,5 @@
 # 💫 About Me: 
-Aspiring Full Stack Developer with Expertise in CSS, HTML, JS, and React. Proficient in data structures and basic algorithms with an ambition to continue learning.<br>
+### Aspiring Full Stack Developer with Expertise in CSS, HTML, JS, and React. Proficient in data structures and basic algorithms with an ambition to continue learning.<br>
 
 🌍 I'm based in New Delhi🌱<br> 
 I’m currently learning React and Redux🧑‍💻<br>
