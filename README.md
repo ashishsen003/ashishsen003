@@ -11,7 +11,7 @@
 
 -👨‍💻 All of my projects are available at [portfolio](https://ashishsen003.github.io/)
 
--📑 Know More About me [portfolio](https://drive.google.com/file/d/1sBfmtVg37X1XU1GeH8kPojjbuU5mELCd/view)
+-📑 Know More About me [Resume](https://drive.google.com/file/d/1sBfmtVg37X1XU1GeH8kPojjbuU5mELCd/view)
 
 -✉️ You can contact me at ashishsen997@gmail.com
 
