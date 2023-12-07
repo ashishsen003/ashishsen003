@@ -5,8 +5,6 @@
 
 -🌱 I’m currently learning Full Stack Web Development.
 
--🌍 I'm based in New Delhi, India
-
 -💬 Ask me about HTML, CSS, JavaScript, React.
 
 -👨‍💻 All of my projects are available at [portfolio](https://ashishsen003.github.io/)
