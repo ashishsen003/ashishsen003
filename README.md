@@ -7,7 +7,7 @@
 
 -💬 Ask me about HTML, CSS, JavaScript, React.
 
--👨‍💻 All of my projects are available at [portfolio](https://ashishsen003.github.io/)
+-👨‍💻 All of my projects are available at [Portfolio](https://ashishsen003.github.io/)
 
 -📑 Know More About me [Resume](https://drive.google.com/file/d/1v_9bh0T05iUEkAYackN0mR395ySkQP-J/view?usp=drive_link)
 
