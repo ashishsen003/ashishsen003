@@ -16,7 +16,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-kumar-b624b4248) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ashishsen003) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-kumar-b624b4248) 
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ashishsen003) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
@@ -40,13 +41,13 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
 
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ashishsen003&theme=monokai&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ashishsen003&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishsen003&theme=monokai&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ashishsen003&limit=5&theme=monokai&combine_all_yearly_contributions=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ashishsen003&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
@@ -55,21 +56,9 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ashishsen003&limit=5&theme=monokai&combine_all_yearly_contributions=true)
-
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
----
 [![](https://visitcount.itsvg.in/api?id=ashishsen003&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
-
