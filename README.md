@@ -52,10 +52,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=ashishsen003&theme=monokai&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 
 ### 🔝 Top Contributed Repo
