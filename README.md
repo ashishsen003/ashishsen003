@@ -9,7 +9,7 @@
 
 -👨‍💻 All of my projects are available at [Portfolio](https://ashishsen003.github.io/)
 
--📑 Know More About me [Resume](https://drive.google.com/file/d/1v_9bh0T05iUEkAYackN0mR395ySkQP-J/view?usp=drive_link)
+-📑 Know More About me [Resume](https://drive.google.com/file/d/1ZqVsjJcex75B8w1N8VqQo5INazmy-dCd/view?usp=drive_link)
 
 -✉️ You can contact me at ashishsen997@gmail.com
 
