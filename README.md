@@ -3,13 +3,13 @@
 
 
 
--🌱 I’m currently learning Full Stack Web Development.
+-🌱 I’m a Full Stack Web Developer.
 
 -💬 Ask me about HTML, CSS, JavaScript, React.
 
 -👨‍💻 All of my projects are available at [Portfolio](https://ashishsen003.github.io/)
 
--📑 Know More About me [Resume](https://drive.google.com/file/d/1ZqVsjJcex75B8w1N8VqQo5INazmy-dCd/view?usp=drive_link)
+-📑 Know More About me [Resume](https://drive.google.com/file/d/16Xefo6z9TWJPRjeywMOApu_N5lBxsH8S/view?usp=drive_link)
 
 -✉️ You can contact me at ashishsen997@gmail.com
 
