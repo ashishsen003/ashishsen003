@@ -11,7 +11,7 @@ I am a Full-Stack Web Developer with a specialisation in MERN Stack, JavaScript,
 
 -👨‍💻 All of my projects are available at [Portfolio](https://ashishsen003.github.io/)
 
--📑 Know More About me [Resume](https://drive.google.com/file/d/16Xefo6z9TWJPRjeywMOApu_N5lBxsH8S/view?usp=drive_link)
+-📑 Know More About me [Resume]()
 
 -✉️ You can contact me at ashishsen997@gmail.com
 
